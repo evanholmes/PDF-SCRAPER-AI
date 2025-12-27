@@ -1,0 +1,32 @@
+Municipality/Organization,Region,Portal Name,Portal URL,Account Required,Username,Password,Portal Type,Notes,Calendar Color,Team Assigned,Status
+Metro Vancouver,Regional District,Bids and Tenders,https://metrovancouver.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Regional district - covers multiple municipalities,#4285F4,Team Metro,Active
+Fraser Valley Regional District,Regional District,Tenders & RFPs,https://www.fvrd.ca/EN/main/government/tenders-rfps.html,No,,,Direct Website,Regional district for Fraser Valley,#0F9D58,Team FVRD,Active
+Port of Vancouver,Port Authority,RFPs and Procurement,https://www.portvancouver.com/business-and-projects/rfps-and-procurement,Unknown,,,Direct Website,Major port authority - large contracts,#DB4437,Team Port,Active
+City of Vancouver,Metro Vancouver,VendorLink,https://vancouver.vendorlink.ca/,Yes,,,VendorLink Platform,Largest city - high volume of opportunities,#F4B400,Team Vancouver,Active
+City of Surrey,Metro Vancouver,Tenders RFQs RFPs,https://www.surrey.ca/business-economy/tenders-rfqs-rfps,Unknown,,,Direct Website,Second largest city in BC,#AB47BC,Team Surrey,Active
+City of Burnaby,Metro Vancouver,Bids and Tenders,https://burnaby.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Major municipality,#00ACC1,Team Burnaby,Pending Setup
+City of Richmond,Metro Vancouver,Purchasing & Tenders,https://www.richmond.ca/busdev/tenders/tenders.htm,Unknown,,,Direct Website,Airport city - significant opportunities,#FF7043,Team Richmond,Pending Setup
+City of Coquitlam,Metro Vancouver,Bids and Tenders,https://coquitlam.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Tri-Cities area,#9CCC65,Team Coquitlam,Pending Setup
+City of New Westminster,Metro Vancouver,Bids and Tenders,https://newwestcity.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Historic city,#26A69A,Team New West,Pending Setup
+City of Delta,Metro Vancouver,Purchasing,https://www.delta.ca/your-government/doing-business-with-delta,Unknown,,,Direct Website,Agricultural and industrial mix,#5C6BC0,Team Delta,Pending Setup
+City of North Vancouver,Metro Vancouver,Bids and Tenders,https://cnv.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,North Shore,#EF5350,Team CNV,Pending Setup
+District of North Vancouver,Metro Vancouver,Purchasing,https://www.dnv.org/business-development/purchasing,Unknown,,,Direct Website,North Shore district,#EC407A,Team DNV,Pending Setup
+City of West Vancouver,Metro Vancouver,Bids and Tenders,https://westvancouver.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Affluent municipality,#7E57C2,Team West Van,Pending Setup
+City of Port Coquitlam,Metro Vancouver,Purchasing,https://www.portcoquitlam.ca/city-hall/doing-business-with-the-city/,Unknown,,,Direct Website,Tri-Cities area,#42A5F5,Team PoCo,Pending Setup
+City of Port Moody,Metro Vancouver,Bids and Tenders,https://portmoody.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Tri-Cities area,#66BB6A,Team Port Moody,Pending Setup
+City of Langley,Fraser Valley,Bids and Tenders,https://langleycity.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Growing city,#FFCA28,Team Langley City,Pending Setup
+Township of Langley,Fraser Valley,Bids and Tenders,https://tol.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Large township - rapid growth,#FFA726,Team TOL,Pending Setup
+City of Abbotsford,Fraser Valley,Bids and Tenders,https://abbotsford.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Largest Fraser Valley city,#8D6E63,Team Abbotsford,Pending Setup
+City of Chilliwack,Fraser Valley,Purchasing,https://www.chilliwack.com/main/page.cfm?id=574,Unknown,,,Direct Website,Growing Fraser Valley city,#78909C,Team Chilliwack,Pending Setup
+City of Mission,Fraser Valley,Purchasing,https://www.mission.ca/municipal-hall/purchasing/,Unknown,,,Direct Website,Fraser Valley community,#A1887F,Team Mission,Pending Setup
+District of Maple Ridge,Fraser Valley,Bids and Tenders,https://mapleridge.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Growing community,#90A4AE,Team Maple Ridge,Pending Setup
+City of Pitt Meadows,Fraser Valley,Purchasing,https://www.pittmeadows.ca/city-services/purchasing,Unknown,,,Direct Website,Small but growing,#BCAAA4,Team Pitt Meadows,Pending Setup
+District of Hope,Fraser Valley,Purchasing,https://www.hope.ca/,Unknown,,,Direct Website,Eastern Fraser Valley gateway,#B0BEC5,Team Hope,Pending Setup
+Village of Harrison Hot Springs,Fraser Valley,Purchasing,https://harrisonhotsprings.ca/,Unknown,,,Direct Website,Tourism-focused small municipality,#D7CCC8,Team Harrison,Pending Setup
+City of White Rock,Metro Vancouver,Bids and Tenders,https://whiterockcity.bidsandtenders.ca/Module/Tenders,Yes,,,BidsAndTenders Platform,Waterfront city,#80DEEA,Team White Rock,Pending Setup
+TransLink,Regional,Procurement,https://www.translink.ca/about-us/doing-business-with-translink/procurement,Yes,,,Custom Portal,Regional transit authority - large signage contracts,#C62828,Team TransLink,Priority
+BC Hydro,Provincial,Procurement,https://www.bchydro.com/work-with-us/suppliers.html,Yes,,,Custom Portal,Provincial utility - potential signage work,#1565C0,Team BC Hydro,Research
+Vancouver Airport Authority (YVR),Regional,Procurement,https://www.yvr.ca/en/business/procurement,Yes,,,Custom Portal,Major facility - significant signage needs,#6A1B9A,Team YVR,Priority
+BC Ferries,Provincial,Procurement,https://www.bcferries.com/about/procurement,Unknown,,,Custom Portal,Provincial ferry service,#00838F,Team BC Ferries,Research
+University of British Columbia,Education,Procurement,https://procurement.ubc.ca/,Yes,,,Custom Portal,Major institution - wayfinding signage,#2E7D32,Team UBC,Research
+Simon Fraser University,Education,Procurement,https://www.sfu.ca/finance/departments/supply-management.html,Yes,,,Custom Portal,Major institution,#F57F17,Team SFU,Research
