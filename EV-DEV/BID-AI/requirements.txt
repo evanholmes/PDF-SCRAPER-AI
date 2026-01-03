@@ -1,0 +1,72 @@
+# BID-AI Dependencies
+# AI-powered bidding system for municipal contracts
+
+# Core AI & LLM
+anthropic>=0.18.0              # Claude AI API
+openai>=1.10.0                 # OpenAI API (backup/alternative)
+langchain>=0.1.0               # LLM orchestration
+langchain-anthropic>=0.1.0     # Anthropic integration for LangChain
+
+# Web Scraping & Automation
+requests>=2.31.0               # HTTP requests
+beautifulsoup4>=4.12.0         # HTML parsing
+selenium>=4.16.0               # Browser automation
+playwright>=1.40.0             # Modern browser automation
+scrapy>=2.11.0                 # Advanced web scraping framework
+lxml>=5.1.0                    # XML/HTML processing
+
+# Data Processing
+pandas>=2.1.0                  # Data manipulation
+numpy>=1.26.0                  # Numerical computing
+pyyaml>=6.0.1                  # YAML config parsing
+python-dotenv>=1.0.0           # Environment variable management
+
+# Google Calendar Integration
+google-auth>=2.27.0            # Google authentication
+google-auth-oauthlib>=1.2.0    # OAuth2 for Google
+google-auth-httplib2>=0.2.0    # HTTP library for Google Auth
+google-api-python-client>=2.110.0  # Google Calendar API
+
+# Database & Storage
+sqlalchemy>=2.0.25             # Database ORM
+psycopg2-binary>=2.9.9         # PostgreSQL adapter (if needed)
+# sqlite3 is built into Python, no separate install needed
+
+# Document Processing & PDF Generation
+PyPDF2>=3.0.1                  # PDF manipulation
+reportlab>=4.0.7               # PDF generation
+python-docx>=1.1.0             # Word document generation
+jinja2>=3.1.3                  # Template engine for documents
+
+# Web Dashboard & Visualization
+flask>=3.0.0                   # Web framework
+dash>=2.14.0                   # Interactive dashboards
+plotly>=5.18.0                 # Interactive plots
+streamlit>=1.29.0              # Alternative dashboard framework
+
+# Scheduling & Background Tasks
+apscheduler>=3.10.4            # Job scheduling
+celery>=5.3.4                  # Distributed task queue
+redis>=5.0.1                   # Task queue backend
+
+# Monitoring & Logging
+loguru>=0.7.2                  # Advanced logging
+python-json-logger>=2.0.7      # JSON logging
+sentry-sdk>=1.39.0             # Error tracking
+
+# Testing & Development
+pytest>=7.4.3                  # Testing framework
+pytest-cov>=4.1.0              # Code coverage
+black>=23.12.1                 # Code formatting
+flake8>=7.0.0                  # Linting
+mypy>=1.8.0                    # Type checking
+
+# Utilities
+python-dateutil>=2.8.2         # Date/time utilities
+pytz>=2023.3                   # Timezone support
+validators>=0.22.0             # URL/email validation
+tenacity>=8.2.3                # Retry logic
+tqdm>=4.66.1                   # Progress bars
+
+# Security
+cryptography>=41.0.7           # Encryption utilities

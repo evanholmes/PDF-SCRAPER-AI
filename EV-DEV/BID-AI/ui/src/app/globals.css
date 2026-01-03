@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --card: #141414;
+    --card-foreground: #ededed;
+    --border: #262626;
+    --muted: #737373;
+    --muted-foreground: #a3a3a3;
+}
+
+body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: "Inter", system-ui, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--muted);
+}
+
+/* Utility classes */
+@layer components {
+    .card {
+        @apply bg-[#141414] border border-[#262626] rounded-lg;
+    }
+
+    .card-header {
+        @apply px-4 py-3 border-b border-[#262626];
+    }
+
+    .card-body {
+        @apply p-4;
+    }
+
+    .badge {
+        @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium;
+    }
+
+    .badge-tier-1 {
+        @apply bg-red-500/20 text-red-400 border border-red-500/30;
+    }
+
+    .badge-tier-2 {
+        @apply bg-amber-500/20 text-amber-400 border border-amber-500/30;
+    }
+
+    .badge-tier-3 {
+        @apply bg-gray-500/20 text-gray-400 border border-gray-500/30;
+    }
+
+    .badge-fulfill {
+        @apply bg-green-500/20 text-green-400 border border-green-500/30;
+    }
+
+    .badge-partner {
+        @apply bg-purple-500/20 text-purple-400 border border-purple-500/30;
+    }
+
+    .badge-assign {
+        @apply bg-blue-500/20 text-blue-400 border border-blue-500/30;
+    }
+
+    .badge-broker {
+        @apply bg-amber-500/20 text-amber-400 border border-amber-500/30;
+    }
+
+    .stat-card {
+        @apply card p-4 flex flex-col;
+    }
+
+    .stat-value {
+        @apply text-3xl font-bold;
+    }
+
+    .stat-label {
+        @apply text-sm text-[#a3a3a3] mt-1;
+    }
+
+    .stat-trend {
+        @apply text-xs mt-2;
+    }
+
+    .stat-trend-up {
+        @apply text-green-400;
+    }
+
+    .stat-trend-down {
+        @apply text-red-400;
+    }
+}
