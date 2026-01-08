@@ -1,0 +1,27 @@
+# Multi-Agent Validation System Configuration
+
+# Validator Agent Configuration
+validator:
+  strict_mode: true
+  allow_4_digit_codes: true
+  allow_6_digit_codes: true
+  max_title_length: 200
+  min_title_length: 2
+
+# Auditor Agent Configuration
+auditor:
+  require_sequence_order: true
+  check_cross_references: true
+  hierarchy_depth: 3
+  detect_anomalies: true
+
+# Quality Control Agent Configuration
+qc:
+  confidence_threshold: 0.95  # 95%
+  sample_size: 100
+  spot_check_percentage: 5
+
+# Orchestrator Quality Gates
+max_critical_errors: 0
+max_high_issues: 5
+min_confidence: 95.0  # percentage
