@@ -1,0 +1,10 @@
+venv/
+.env
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+*.pdf
+
+# OpenMemory - IDE/Assistant specific rules
+.cursor/rules/openmemory.mdc

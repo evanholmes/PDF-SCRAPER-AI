@@ -1,0 +1,1093 @@
+Division,Code,Title,Group,Subgroup,Page
+00,10 00,Solicitation,Specifications,,2
+00,11 00,Advertisements and Invitations,Specifications,,2
+00,20 00,Instructions for Procurement,Specifications,,2
+00,21 00,Instructions,Specifications,,2
+00,22 00,Supplementary Instructions,Specifications,,2
+00,23 00,Procurement Definitions,Specifications,,2
+00,24 00,Procurement Scopes,Specifications,,2
+00,25 00,Procurement Meetings,Specifications,,2
+00,26 00,Procurement Substitution Procedures,Specifications,,2
+00,30 00,Available Information,Specifications,,2
+00,31 00,Available Project Information,Specifications,,2
+00,40 00,Procurement Forms and Supplements,Specifications,,2
+00,41 00,Bid Forms,Specifications,,2
+00,42 00,Proposal Forms,Specifications,,2
+00,43 00,Procurement Form Supplements,Specifications,,2
+00,45 00,Representations and Certifications,Specifications,,2
+00,50 00,Contracting Forms and Supplements,Specifications,,2
+00,51 00,Notice of Award,Specifications,,2
+00,52 00,Agreement Forms,Specifications,,2
+00,54 00,Agreement Form Supplements,Specifications,,2
+00,55 00,Notice to Proceed,Specifications,,2
+00,60 00,Project Forms,Specifications,,2
+00,61 00,Bond Forms,Specifications,,2
+00,62 00,Certificates and Other Forms,Specifications,,2
+00,63 00,Clarification and Modification Forms,Specifications,,2
+00,65 00,Closeout Forms,Specifications,,2
+00,70 00,Conditions of the Contract,Specifications,,2
+00,71 00,Contracting Definitions,Specifications,,2
+00,72 00,General Conditions,Specifications,,2
+00,73 00,Supplementary Conditions,Specifications,,2
+00,90 00,"Revisions, Clarifications, Modifications",Specifications,,2
+00,91 00,Precontract Revisions,Specifications,,2
+00,93 00,Record Clarifications and Proposals,Specifications,,2
+00,94 00,Record Modifications General Requirements Subgroup Requirements,Specifications,,2
+01,10 00,Summary,Specifications,,2
+01,11 00,Summary of Work,Specifications,,2
+01,12 00,Multiple Contract Summary,Specifications,,2
+01,14 00,Work Restrictions,Specifications,,2
+01,18 00,Project Utility Sources,Specifications,,2
+01,20 00,Price and Payment Procedures,Specifications,,2
+01,21 00,Allowances,Specifications,,2
+01,22 00,Unit Prices,Specifications,,2
+01,23 00,Alternates,Specifications,,2
+01,24 00,Value Analysis,Specifications,,2
+01,25 00,Substitution Procedures,Specifications,,2
+01,26 00,Contract Modification Procedures,Specifications,,2
+01,29 00,Payment Procedures,Specifications,,2
+01,30 00,Administrative Requirements,Specifications,,2
+01,31 00,Project Management and Coordination,Specifications,,2
+01,32 00,Construction Progress Documentation,Specifications,,2
+01,33 00,Submittal Procedures,Specifications,,2
+01,35 00,Special Procedures,Specifications,,2
+01,40 00,Quality Requirements,Specifications,,2
+01,41 00,Regulatory Requirements,Specifications,,2
+01,42 00,References,Specifications,,2
+01,43 00,Quality Assurance,Specifications,,2
+01,45 00,Quality Control,Specifications,,2
+01,50 00,Temporary Facilities and Controls,Specifications,,2
+01,51 00,Temporary Utilities,Specifications,,2
+01,52 00,Construction Facilities,Specifications,,2
+01,53 00,Temporary Construction,Specifications,,2
+01,54 00,Construction Aids and,Specifications,,2
+01,55 00,Vehicular Access and Parking,Specifications,,2
+01,56 00,Temporary Barriers and Enclosures,Specifications,,2
+01,57 00,Temporary Controls to use MasterFormat 2020 Edition.,Specifications,,2
+01,58 00,Project Identification,Specifications,,3
+01,60 00,Product Requirements,Specifications,,3
+01,61 00,Common Product Requirements,Specifications,,3
+01,62 00,Product Options,Specifications,,3
+01,64 00,Owner-Furnished Products,Specifications,,3
+01,65 00,Product Delivery Requirements,Specifications,,3
+01,66 00,Product Storage and Handling Requirements,Specifications,,3
+01,70 00,Execution and Closeout Requirements,Specifications,,3
+01,71 00,Examination and Preparation,Specifications,,3
+01,73 00,Execution,Specifications,,3
+01,74 00,Cleaning and Waste Management,Specifications,,3
+01,75 00,Starting and Adjusting,Specifications,,3
+01,76 00,Protecting Installed Construction,Specifications,,3
+01,77 00,Closeout Procedures,Specifications,,3
+01,78 00,Closeout Submittals,Specifications,,3
+01,79 00,Demonstration and Training,Specifications,,3
+01,80 00,Performance Requirements,Specifications,,3
+01,81 00,Facility Performance Requirements,Specifications,,3
+01,82 00,Facility Substructure Performance Requirements,Specifications,,3
+01,83 00,Facility Shell Performance Requirements,Specifications,,3
+01,84 00,Interiors Performance Requirements,Specifications,,3
+01,85 00,Conveying Equipment Performance Requirements,Specifications,,3
+01,86 00,Facility Services Performance Requirements,Specifications,,3
+01,87 00,Equipment and Furnishings Performance Requirements,Specifications,,3
+01,88 00,Other Facility Construction Performance Requirements,Specifications,,3
+01,89 00,Site Construction Performance Requirements,Specifications,,3
+01,90 00,Life Cycle Activities,Specifications,,3
+01,91 00,Commissioning,Specifications,,3
+01,92 00,Facility Operation,Specifications,,3
+01,93 00,Facility Maintenance,Specifications,,3
+01,94 00,Facility Decommissioning,Specifications,,3
+02,01 00,Maintenance of Existing Conditions,Specifications,,3
+02,03 00,Conservation Treatment for Existing Period Conditions,Specifications,,3
+02,05 00,Common Work Results for Existing Conditions,Specifications,,3
+02,06 00,Schedules for Existing Conditions,Specifications,,3
+02,08 00,Commissioning of Existing Conditions,Specifications,,3
+02,20 00,Assessment,Specifications,,3
+02,21 00,Surveys,Specifications,,3
+02,22 00,Existing Conditions Assessment,Specifications,,3
+02,24 00,Environmental Assessment,Specifications,,3
+02,25 00,Existing Material Assessment,Specifications,,3
+02,26 00,Hazardous Material Assessment,Specifications,,3
+02,30 00,Subsurface Investigation,Specifications,,3
+02,31 00,Geophysical Investigations,Specifications,,3
+02,32 00,Geotechnical Investigations,Specifications,,3
+02,40 00,Demolition and Structure Moving,Specifications,,3
+02,41 00,Demolition,Specifications,,3
+02,42 00,Removal and Diversion of Construction Materials,Specifications,,3
+02,43 00,Structure Moving,Specifications,,3
+02,50 00,Site Remediation,Specifications,,3
+02,51 00,Physical Decontamination,Specifications,,3
+02,52 00,Chemical Decontamination,Specifications,,3
+02,53 00,Thermal Decontamination,Specifications,,3
+02,54 00,Biological Decontamination,Specifications,,3
+02,55 00,Remediation Soil Stabilization,Specifications,,3
+02,56 00,Site Containment,Specifications,,3
+02,57 00,Sinkhole Remediation,Specifications,,3
+02,58 00,Snow Control,Specifications,,3
+02,60 00,Contaminated Site Material Removal,Specifications,,3
+02,61 00,Removal and Disposal of Contaminated Soils,Specifications,,3
+02,62 00,Hazardous Waste Recovery Processes,Specifications,,3
+02,65 00,Underground Storage Tank Removal,Specifications,,3
+02,70 00,Water Remediation,Specifications,,3
+02,71 00,Groundwater Treatment,Specifications,,3
+02,72 00,Water Decontamination to use MasterFormat 2020 Edition.,Specifications,,3
+02,80 00,Facility Remediation 03 61,Specifications,,4
+02,81 00,Transportation and Disposal of 03 62 Hazardous Materials 03 63,Specifications,,4
+02,82 00,Asbestos Remediation 03 64,Specifications,,4
+02,83 00,Lead Remediation 03 70,Specifications,,4
+02,84 00,Polychlorinate Biphenyl 03 71 Remediation,Specifications,,4
+02,86 00,Hazardous Waste Drum 03 72 Handling 03 80,Specifications,,4
+02,87 00,Biohazard Remediation 03 81 03 82,Specifications,,4
+03,01 00,Maintenance of Concrete,Specifications,,4
+03,03 00,Conservation Treatment for 04 01 Period Concrete 04 03,Specifications,,4
+03,05 00,Common Work Results for Concrete 04 05,Specifications,,4
+03,06 00,Schedules for Concrete,Specifications,,4
+03,08 00,Commissioning of Concrete 04 06,Specifications,,4
+03,10 00,Concrete Forming and 04 08 Accessories 04 20,Specifications,,4
+03,11 00,Concrete Forming 04 21,Specifications,,4
+03,15 00,Concrete Accessories 04 22,Specifications,,4
+03,20 00,Concrete Reinforcing 04 23,Specifications,,4
+03,21 00,Reinforcement Bars 04 24,Specifications,,4
+03,22 00,Fabric and Grid Reinforcing 04 25,Specifications,,4
+03,23 00,Stressed Tendon Reinforcing 04 26,Specifications,,4
+03,24 00,Fibrous Reinforcing 04 27,Specifications,,4
+03,25 00,Composite Reinforcing 04 28,Specifications,,4
+03,30 00,Cast-in-Place Concrete 04 29,Specifications,,4
+03,31 00,Structural Concrete 04 40,Specifications,,4
+03,33 00,Architectural Concrete 04 41,Specifications,,4
+03,34 00,Low Density Concrete 04 42,Specifications,,4
+03,35 00,Concrete Finishing 04 43,Specifications,,4
+03,37 00,Specialty Placed Concrete 04 50,Specifications,,4
+03,38 00,Post-Tensioned Concrete 04 51,Specifications,,4
+03,39 00,Concrete Curing 04 52,Specifications,,4
+03,40 00,Precast Concrete 04 53,Specifications,,4
+03,41 00,Precast Structural Concrete 04 54,Specifications,,4
+03,45 00,Precast Architectural Concrete 04 57,Specifications,,4
+03,47 00,Site-Cast Concrete 04 60,Specifications,,4
+03,48 00,Precast Concrete Specialties 04 61,Specifications,,4
+03,49 00,Glass-Fiber-Reinforced Concrete 04 62,Specifications,,4
+03,50 00,Cast Decks and 04 70 Underlayment 04 71,Specifications,,4
+03,51 00,Cast Roof Decks 04 72,Specifications,,4
+03,52 00,Lightweight Concrete Roof 04 73 Insulation,Specifications,,4
+03,53 00,Concrete Topping,Specifications,,4
+03,54 00,Cast Underlayment,Specifications,,4
+03,60 00,Grouting,Specifications,,4
+05,01 00,Maintenance of Metals,Specifications,,5
+05,03 00,Conservation Treatment for Period Metals,Specifications,,5
+05,05 00,Common Work Results for Metals,Specifications,,5
+05,06 00,Schedules for Metals,Specifications,,5
+05,08 00,Commissioning of Metals,Specifications,,5
+05,10 00,Structural Metal Framing,Specifications,,5
+05,12 00,Structural Steel Framing,Specifications,,5
+05,13 00,Structural Stainless-Steel Framing,Specifications,,5
+05,14 00,Structural Aluminum Framing,Specifications,,5
+05,15 00,Wire Rope Assemblies,Specifications,,5
+05,16 00,Structural Cabling,Specifications,,5
+05,17 00,Structural Rod Assemblies,Specifications,,5
+05,19 00,Tension Rod and Cable Truss Assemblies,Specifications,,5
+05,20 00,Metal Joists,Specifications,,5
+05,21 00,Steel Joist Framing,Specifications,,5
+05,25 00,Aluminum Joist Framing,Specifications,,5
+05,30 00,Metal Decking,Specifications,,5
+05,31 00,Steel Decking,Specifications,,5
+05,33 00,Aluminum Decking,Specifications,,5
+05,34 00,Acoustical Metal Decking,Specifications,,5
+05,35 00,Raceway Decking Assemblies,Specifications,,5
+05,36 00,Composite Metal Decking,Specifications,,5
+05,40 00,Cold-Formed Metal Framing,Specifications,,5
+05,41 00,Structural Metal Stud Framing,Specifications,,5
+05,42 00,Cold-Formed Metal Joist Framing,Specifications,,5
+05,43 00,Slotted Channel Framing,Specifications,,5
+05,44 00,Cold-Formed Metal Trusses,Specifications,,5
+05,45 00,Metal Support Assemblies,Specifications,,5
+05,50 00,Metal Fabrications,Specifications,,5
+05,51 00,Metal Stairs,Specifications,,5
+05,52 00,Metal Railings,Specifications,,5
+05,53 00,Metal Gratings,Specifications,,5
+05,54 00,Metal Floor Plates,Specifications,,5
+05,55 00,Metal Stair Treads and Nosings,Specifications,,5
+05,56 00,Metal Castings,Specifications,,5
+05,58 00,Formed Metal Fabrications,Specifications,,5
+05,59 00,Metal Specialties,Specifications,,5
+05,70 00,Decorative Metal,Specifications,,5
+05,71 00,Decorative Metal Stairs,Specifications,,5
+05,73 00,Decorative Metal Railings,Specifications,,5
+05,74 00,Decorative Metal Castings,Specifications,,5
+05,75 00,Decorative Formed Metal,Specifications,,5
+05,76 00,Decorative Forged Metal,Specifications,,5
+05,77 00,Decorative Extruded Metal,Specifications,,5
+06,01 00,"Maintenance of Wood, Plastics, and Composites",Specifications,,5
+06,03 00,Conservation Treatment for Period Wood,Specifications,,5
+06,05 00,"Common Work Results for Wood, Plastics, and Composites",Specifications,,5
+06,06 00,"Schedules for Wood, Plastics, and Composites",Specifications,,5
+06,08 00,"Commissioning of Wood, Plastics, and Composites",Specifications,,5
+06,10 00,Rough Carpentry,Specifications,,5
+06,11 00,Wood Framing,Specifications,,5
+06,12 00,Structural Panels,Specifications,,5
+06,13 00,Heavy Timber Construction,Specifications,,5
+06,14 00,Treated Wood Foundations,Specifications,,5
+06,15 00,Wood Decking,Specifications,,5
+06,16 00,Sheathing,Specifications,,5
+06,17 00,Shop-Fabricated Structural Wood,Specifications,,5
+06,18 00,Glued-Laminated Construction,Specifications,,5
+06,20 00,Finish Carpentry,Specifications,,5
+06,22 00,Millwork,Specifications,,5
+06,25 00,Prefinished Paneling,Specifications,,5
+06,26 00,Board Paneling,Specifications,,5
+06,40 00,Architectural Woodwork,Specifications,,5
+06,41 00,Architectural Wood Casework,Specifications,,5
+06,42 00,Wood Paneling,Specifications,,5
+06,43 00,Wood Stairs and Railings,Specifications,,5
+06,44 00,Ornamental Woodwork,Specifications,,5
+06,46 00,Wood Trim,Specifications,,5
+06,48 00,Wood Frames,Specifications,,5
+06,49 00,Wood Screens and Shutters,Specifications,,5
+06,50 00,Structural Plastics,Specifications,,5
+06,51 00,Structural Plastic Shapes and Plates,Specifications,,5
+06,52 00,Plastic Structural Assemblies,Specifications,,5
+06,53 00,Plastic Decking,Specifications,,5
+06,60 00,Plastic Fabrications,Specifications,,5
+06,61 00,Cast Polymer Fabrications,Specifications,,5
+06,62 00,Plastic Foam Fabrications,Specifications,,5
+06,63 00,Plastic Railings,Specifications,,5
+06,64 00,Plastic Paneling,Specifications,,5
+06,65 00,Plastic Trim,Specifications,,5
+06,66 00,Custom Ornamental Simulated Woodwork,Specifications,,5
+06,70 00,Structural Composites,Specifications,,5
+06,71 00,Structural Composite Shapes and Plates to use MasterFormat 2020 Edition.,Specifications,,5
+06,72 00,Composite Structural 07 46 Assemblies 07 50,Specifications,,6
+06,73 00,Composite Decking 07 51,Specifications,,6
+06,74 00,Composite Gratings 07 52,Specifications,,6
+06,80 00,Composite Fabrications,Specifications,,6
+06,81 00,Composite Railings 07 53,Specifications,,6
+06,82 00,Composite Trim 07 54,Specifications,,6
+06,83 00,Composite Paneling 07 55 07 56 Moisture Protection 07 57 07 58,Specifications,,6
+07,01 00,Operation and Maintenance of Thermal and Moisture 07 60 Protection 07 61,Specifications,,6
+07,03 00,Conservation Treatment for 07 62 Period Roofing 07 63,Specifications,,6
+07,05 00,Common Work Results 07 64 for Thermal and Moisture 07 65 Protection 07 70,Specifications,,6
+07,06 00,Schedules for Thermal and Moisture Protection 07 71,Specifications,,6
+07,08 00,Commissioning of Thermal and 07 72 Moisture Protection 07 76,Specifications,,6
+07,10 00,Dampproofing and 07 77 Waterproofing 07 80,Specifications,,6
+07,11 00,Dampproofing 07 81,Specifications,,6
+07,12 00,Built-Up Bituminous 07 82 Waterproofing 07 84,Specifications,,6
+07,13 00,Sheet Waterproofing 07 86,Specifications,,6
+07,14 00,Fluid-Applied Waterproofing 07 87,Specifications,,6
+07,15 00,Sheet Metal Waterproofing,Specifications,,6
+07,16 00,Cementitious and Reactive 07 90 Waterproofing 07 91,Specifications,,6
+07,17 00,Bentonite Waterproofing 07 92,Specifications,,6
+07,18 00,Traffic Coatings 07 95,Specifications,,6
+07,19 00,Water Repellents,Specifications,,6
+07,20 00,Thermal Protection 08 01,Specifications,,6
+07,21 00,Thermal Insulation,Specifications,,6
+07,22 00,Roof and Deck Insulation 08 03,Specifications,,6
+07,24 00,Exterior Insulation and Finish Systems 08 05,Specifications,,6
+07,25 00,Weather Barriers,Specifications,,6
+07,26 00,Vapor Retarders 08 06,Specifications,,6
+07,27 00,Air Barriers 08 08,Specifications,,6
+07,30 00,Steep Slope Roofing 08 10,Specifications,,6
+07,31 00,Shingles and Shakes 08 11,Specifications,,6
+07,32 00,Roof Tiles 08 12,Specifications,,6
+07,33 00,Natural Roof Coverings 08 13,Specifications,,6
+07,40 00,Roofing and Siding Panels 08 14,Specifications,,6
+07,41 00,Roof Panels 08 15,Specifications,,6
+07,42 00,Wall Panels 08 16,Specifications,,6
+07,44 00,Faced Panels,Specifications,,6
+08,17 00,Integrated Door Opening Assemblies,Specifications,,7
+08,18 00,Glass Doors,Specifications,,7
+08,30 00,Specialty Doors and Frames,Specifications,,7
+08,31 00,Access Doors and Panels,Specifications,,7
+08,33 00,Coiling Doors and Grilles,Specifications,,7
+08,34 00,Special Function Doors,Specifications,,7
+08,35 00,Folding Doors and Grilles,Specifications,,7
+08,36 00,Panel Doors,Specifications,,7
+08,38 00,Traffic Doors,Specifications,,7
+08,39 00,Pressure-Resistant Doors,Specifications,,7
+08,40 00,"Entrances, Storefronts, and Curtain Walls",Specifications,,7
+08,41 00,Entrances and Storefronts,Specifications,,7
+08,42 00,Entrances,Specifications,,7
+08,43 00,Storefronts,Specifications,,7
+08,44 00,Curtain Wall and Glazed Assemblies,Specifications,,7
+08,45 00,Translucent Wall and Roof Assemblies,Specifications,,7
+08,46 00,Window Wall Assemblies,Specifications,,7
+08,50 00,Windows,Specifications,,7
+08,51 00,Metal Windows,Specifications,,7
+08,52 00,Wood Windows,Specifications,,7
+08,53 00,Plastic Windows,Specifications,,7
+08,54 00,Composite Windows,Specifications,,7
+08,55 00,Pressure-Resistant Windows,Specifications,,7
+08,56 00,Special Function Windows,Specifications,,7
+08,60 00,Roof Windows and Skylights,Specifications,,7
+08,61 00,Roof Windows,Specifications,,7
+08,62 00,Unit Skylights,Specifications,,7
+08,63 00,Metal-Framed Skylights,Specifications,,7
+08,64 00,Plastic-Framed Skylights,Specifications,,7
+08,65 00,Glazed Canopies,Specifications,,7
+08,67 00,Skylight Protection and Screens,Specifications,,7
+08,70 00,Hardware,Specifications,,7
+08,71 00,Door Hardware,Specifications,,7
+08,74 00,Non-Integrated Access Control Hardware,Specifications,,7
+08,75 00,Window Hardware,Specifications,,7
+08,78 00,Special Function Hardware,Specifications,,7
+08,79 00,Hardware Accessories,Specifications,,7
+08,80 00,Glazing,Specifications,,7
+08,81 00,Glass Glazing,Specifications,,7
+08,83 00,Mirrors,Specifications,,7
+08,84 00,Plastic Glazing,Specifications,,7
+08,85 00,Glazing Accessories,Specifications,,7
+08,87 00,Glazing Surface Films,Specifications,,7
+08,88 00,Special Function Glazing,Specifications,,7
+08,90 00,Louvers and Vents,Specifications,,7
+08,91 00,Louvers,Specifications,,7
+08,92 00,Louvered Equipment Enclosures,Specifications,,7
+08,95 00,Vents,Specifications,,7
+09,01 00,Maintenance of Finishes,Specifications,,7
+09,03 00,Conservation Treatment of Period Finishes,Specifications,,7
+09,05 00,Common Work Results for Finishes,Specifications,,7
+09,06 00,Schedules for Finishes,Specifications,,7
+09,08 00,Commissioning of Finishes,Specifications,,7
+09,20 00,Plaster and Gypsum Board,Specifications,,7
+09,21 00,Plaster and Gypsum Board Assemblies,Specifications,,7
+09,22 00,Supports for Plaster and Gypsum Board,Specifications,,7
+09,23 00,Gypsum Plastering,Specifications,,7
+09,24 00,Cement Plastering,Specifications,,7
+09,25 00,Other Plastering,Specifications,,7
+09,26 00,Veneer Plastering,Specifications,,7
+09,27 00,Plaster Fabrications,Specifications,,7
+09,28 00,Backing Boards and Underlayments,Specifications,,7
+09,29 00,Gypsum Board,Specifications,,7
+09,30 00,Tiling,Specifications,,7
+09,31 00,Thin-Set Tiling,Specifications,,7
+09,32 00,Mortar-Bed Tiling,Specifications,,7
+09,33 00,Conductive Tiling,Specifications,,7
+09,34 00,Waterproofing-Membrane Tiling,Specifications,,7
+09,35 00,Chemical-Resistant Tiling,Specifications,,7
+09,50 00,Ceilings,Specifications,,7
+09,51 00,Acoustical Ceilings,Specifications,,7
+09,53 00,Acoustical Ceiling Suspension Assemblies,Specifications,,7
+09,54 00,Specialty Ceilings,Specifications,,7
+09,56 00,Textured Ceilings,Specifications,,7
+09,57 00,Special Function Ceilings,Specifications,,7
+09,58 00,Integrated Ceiling Assemblies,Specifications,,7
+09,60 00,Flooring,Specifications,,7
+09,61 00,Flooring Treatment,Specifications,,7
+09,62 00,Specialty Flooring,Specifications,,7
+09,63 00,Masonry Flooring,Specifications,,7
+09,64 00,Wood Flooring,Specifications,,7
+09,65 00,Resilient Flooring,Specifications,,7
+09,66 00,Terrazzo Flooring,Specifications,,7
+09,67 00,Fluid-Applied Flooring,Specifications,,7
+09,68 00,Carpeting,Specifications,,7
+09,69 00,Access Flooring,Specifications,,7
+09,70 00,Wall Finishes,Specifications,,7
+09,72 00,Wall Coverings to use MasterFormat 2020 Edition.,Specifications,,7
+09,73 00,Wall Carpeting 10 51,Specifications,,8
+09,74 00,Flexible Wood Sheets 10 55,Specifications,,8
+09,75 00,Stone Facing 10 56,Specifications,,8
+09,76 00,Plastic Blocks 10 57,Specifications,,8
+09,77 00,Special Wall Surfacing,Specifications,,8
+09,78 00,Interior Wall Paneling 10 70 10 71,Specifications,,8
+09,80 00,Acoustic Treatment 10 73,Specifications,,8
+09,81 00,Acoustic Insulation 10 74,Specifications,,8
+09,83 00,Acoustic Finishes,Specifications,,8
+09,84 00,Acoustic Room Components 10 75,Specifications,,8
+09,90 00,Painting and Coating 10 80,Specifications,,8
+09,91 00,Painting 10 81,Specifications,,8
+09,93 00,Staining and Transparent 10 82 Finishing 10 83,Specifications,,8
+09,94 00,Decorative Finishing 10 84,Specifications,,8
+09,96 00,High-Performance Coatings 10 86,Specifications,,8
+09,97 00,Special Coatings 10 88,Specifications,,8
+10,01 00,Operation and Maintenance of Specialties 11 01,Specifications,,8
+10,05 00,Common Work Results for Specialties 11 05,Specifications,,8
+10,06 00,Schedules for Specialties 11 06,Specifications,,8
+10,08 00,Commissioning of Specialties 11 08,Specifications,,8
+10,10 00,Information Specialties 11 10,Specifications,,8
+10,11 00,Visual Display Units,Specifications,,8
+10,12 00,Display Cases 11 11,Specifications,,8
+10,13 00,Directories 11 12,Specifications,,8
+10,14 00,Signage 11 13,Specifications,,8
+10,17 00,Telephone Specialties 11 14,Specifications,,8
+10,18 00,Informational Kiosks 11 15,Specifications,,8
+10,20 00,Interior Specialties 11 20,Specifications,,8
+10,21 00,Compartments and Cubicles 11 21,Specifications,,8
+10,22 00,Partitions 11 22,Specifications,,8
+10,25 00,Service Walls 11 25,Specifications,,8
+10,26 00,Wall and Door Protection 11 28,Specifications,,8
+10,28 00,"Toilet, Bath, and Laundry 11 29 Accessories",Specifications,,8
+10,30 00,Fireplaces and Stoves 11 30,Specifications,,8
+10,31 00,Manufactured Fireplaces 11 32,Specifications,,8
+10,32 00,Fireplace Specialties,Specifications,,8
+10,35 00,Stoves 11 40 11 41,Specifications,,8
+10,40 00,Safety Specialties,Specifications,,8
+10,41 00,Emergency Access and 11 42 Information Cabinets 11 43,Specifications,,8
+10,43 00,Emergency Aid Specialties,Specifications,,8
+10,44 00,Fire Protection Specialties 11 44,Specifications,,8
+10,45 00,Photoluminescent Exit 11 46 Specialties 11 48,Specifications,,8
+10,50 00,Storage Specialties,Specifications,,8
+11,50 00,Educational and Scientific Equipment,Specifications,,9
+11,51 00,Library Equipment,Specifications,,9
+11,52 00,Audio-Visual Equipment,Specifications,,9
+11,53 00,Laboratory Equipment,Specifications,,9
+11,55 00,Planetarium Equipment,Specifications,,9
+11,56 00,Observatory Equipment,Specifications,,9
+11,57 00,Vocational Shop Equipment,Specifications,,9
+11,59 00,Exhibit Equipment,Specifications,,9
+11,60 00,Entertainment and Recreation Equipment,Specifications,,9
+11,61 00,"Broadcast, Theater, and Stage Equipment",Specifications,,9
+11,62 00,Musical Equipment,Specifications,,9
+11,66 00,Athletic Equipment,Specifications,,9
+11,67 00,Recreational Equipment,Specifications,,9
+11,68 00,Play Field Equipment and Structures,Specifications,,9
+11,70 00,Healthcare Equipment,Specifications,,9
+11,71 00,Medical Sterilizing Equipment,Specifications,,9
+11,72 00,Examination and Treatment Equipment,Specifications,,9
+11,73 00,Patient Care Equipment,Specifications,,9
+11,74 00,Dental Equipment,Specifications,,9
+11,75 00,Optical Equipment,Specifications,,9
+11,76 00,Operating Room Equipment,Specifications,,9
+11,77 00,Radiology Equipment,Specifications,,9
+11,78 00,Mortuary Equipment,Specifications,,9
+11,79 00,Therapy Equipment,Specifications,,9
+11,80 00,Facility Maintenance and Operation Equipment,Specifications,,9
+11,81 00,Facility Maintenance Equipment,Specifications,,9
+11,82 00,Facility Solid Waste Handling Equipment,Specifications,,9
+11,90 00,Miscellaneous Equipment,Specifications,,9
+11,91 00,Religious Equipment,Specifications,,9
+11,92 00,Agricultural Equipment,Specifications,,9
+11,93 00,Horticultural Equipment,Specifications,,9
+11,94 00,Veterinary Equipment,Specifications,,9
+11,95 00,Arts and Crafts Equipment,Specifications,,9
+11,97 00,Security Equipment,Specifications,,9
+11,98 00,Detention Equipment,Specifications,,9
+12,01 00,Operation and Maintenance of Furnishings,Specifications,,9
+12,05 00,Common Work Results for Furnishings,Specifications,,9
+12,06 00,Schedules for Furnishings,Specifications,,9
+12,08 00,Commissioning of Furnishings,Specifications,,9
+12,10 00,Art,Specifications,,9
+12,11 00,Murals,Specifications,,9
+12,12 00,Wall Decorations,Specifications,,9
+12,14 00,Sculptures,Specifications,,9
+12,17 00,Art Glass,Specifications,,9
+12,19 00,Religious Art,Specifications,,9
+12,20 00,Window Treatments,Specifications,,9
+12,21 00,Window Blinds,Specifications,,9
+12,22 00,Curtains and Drapes,Specifications,,9
+12,23 00,Interior Shutters,Specifications,,9
+12,24 00,Window Shades,Specifications,,9
+12,25 00,Window Treatment Operating Hardware,Specifications,,9
+12,26 00,Interior Daylighting Devices,Specifications,,9
+12,30 00,Casework,Specifications,,9
+12,31 00,Manufactured Metal Casework,Specifications,,9
+12,32 00,Manufactured Wood Casework,Specifications,,9
+12,34 00,Manufactured Plastic Casework,Specifications,,9
+12,35 00,Specialty Casework,Specifications,,9
+12,36 00,Countertops,Specifications,,9
+12,40 00,Furnishings and Accessories,Specifications,,9
+12,41 00,Office Accessories,Specifications,,9
+12,42 00,Table Accessories,Specifications,,9
+12,43 00,Portable Lamps,Specifications,,9
+12,44 00,Bath Furnishings,Specifications,,9
+12,45 00,Bedroom Furnishings,Specifications,,9
+12,46 00,Furnishing Accessories,Specifications,,9
+12,48 00,Rugs and Mats,Specifications,,9
+12,50 00,Furniture,Specifications,,9
+12,51 00,Office Furniture,Specifications,,9
+12,52 00,Seating,Specifications,,9
+12,53 00,Retail Furniture,Specifications,,9
+12,54 00,Hospitality Furniture,Specifications,,9
+12,55 00,Detention Furniture,Specifications,,9
+12,56 00,Institutional Furniture,Specifications,,9
+12,57 00,Industrial Furniture,Specifications,,9
+12,58 00,Residential Furniture,Specifications,,9
+12,59 00,Systems Furniture,Specifications,,9
+12,60 00,Multiple Seating,Specifications,,9
+12,61 00,Fixed Audience Seating,Specifications,,9
+12,62 00,Portable Audience Seating,Specifications,,9
+12,63 00,Stadium and Arena Seating,Specifications,,9
+12,64 00,Booths and Tables,Specifications,,9
+12,65 00,Multiple-Use Fixed Seating,Specifications,,9
+12,66 00,Telescoping Stands,Specifications,,9
+12,67 00,Pews and Benches,Specifications,,9
+12,68 00,Seat and Table Assemblies,Specifications,,9
+12,90 00,Other Furnishings,Specifications,,9
+12,92 00,Interior Planters and Artificial Plants,Specifications,,9
+12,93 00,Interior Public Space Furnishings to use MasterFormat 2020 Edition.,Specifications,,9
+13,01 00,Operation and Maintenance of Special Construction 14 01,Specifications,,10
+13,05 00,Common Work Results for Special Construction 14 05,Specifications,,10
+13,06 00,Schedules for Special Construction 14 06,Specifications,,10
+13,08 00,Commissioning of Special Construction 14 08,Specifications,,10
+13,10 00,Special Facility Components,Specifications,,10
+13,11 00,Swimming Pools 14 10,Specifications,,10
+13,12 00,Fountains 14 11,Specifications,,10
+13,13 00,Aquariums 14 12,Specifications,,10
+13,14 00,Amusement Park Structures 14 14 and Equipment 14 20,Specifications,,10
+13,15 00,Specialty Element Construction 14 21,Specifications,,10
+13,17 00,Tubs and Pools 14 24,Specifications,,10
+13,18 00,Ice Rinks 14 25,Specifications,,10
+13,19 00,Kennels and Animal Shelters 14 26,Specifications,,10
+13,20 00,Special Purpose Rooms,Specifications,,10
+13,21 00,Controlled Environment Rooms 14 27,Specifications,,10
+13,22 00,Office Shelters and Booths,Specifications,,10
+13,23 00,Planetariums 14 28,Specifications,,10
+13,24 00,Special Activity Rooms,Specifications,,10
+13,26 00,Fabricated Rooms 14 30,Specifications,,10
+13,27 00,Vaults 14 31,Specifications,,10
+13,28 00,Athletic and Recreational 14 32 Special Construction 14 33,Specifications,,10
+13,30 00,Special Structures 14 40,Specifications,,10
+13,31 00,Fabric Structures 14 41,Specifications,,10
+13,32 00,Space Frames 14 42,Specifications,,10
+13,33 00,Geodesic Structures 14 43,Specifications,,10
+13,34 00,Fabricated Engineered 14 44 Structures 14 45,Specifications,,10
+13,35 00,Rammed Earth Construction 14 46,Specifications,,10
+13,36 00,Towers 14 70,Specifications,,10
+13,40 00,Integrated Construction 14 71,Specifications,,10
+13,42 00,Building Modules and 14 72 Components 14 73,Specifications,,10
+13,44 00,Modular Mezzanines 14 74,Specifications,,10
+13,46 00,Lightning Protection Systems 14 80,Specifications,,10
+13,47 00,Facility Protection 14 81,Specifications,,10
+13,48 00,"Sound, Vibration, and Seismic 14 82 Control 14 83",Specifications,,10
+13,49 00,Radiation Protection 14 84,Specifications,,10
+13,50 00,Special Instrumentation 14 90,Specifications,,10
+13,51 00,Stress Instrumentation 14 91,Specifications,,10
+13,52 00,Seismic Instrumentation 14 92,Specifications,,10
+13,53 00,Meteorological 14 93 Instrumentation,Specifications,,10
+21,01 00,Operation and Maintenance of Fire Suppression,Specifications,,11
+21,05 00,Common Work Results for Fire Suppression,Specifications,,11
+21,06 00,Schedules for Fire Suppression,Specifications,,11
+21,07 00,Fire Suppression Systems Insulation,Specifications,,11
+21,08 00,Commissioning of Fire Suppression,Specifications,,11
+21,09 00,Instrumentation and Control for Fire-Suppression Systems,Specifications,,11
+21,10 00,Water-Based Fire- Suppression Systems,Specifications,,11
+21,11 00,Facility Fire-Suppression Water- Service Piping,Specifications,,11
+21,12 00,Fire-Suppression Standpipes,Specifications,,11
+21,13 00,Fire-Suppression Sprinkler Systems,Specifications,,11
+21,20 00,Fire-Extinguishing Systems,Specifications,,11
+21,21 00,Gas-Based Fire-Extinguishing Systems,Specifications,,11
+21,22 00,Clean-Agent Fire-Extinguishing Systems,Specifications,,11
+21,23 00,Wet-Chemical Fire- Extinguishing Systems,Specifications,,11
+21,24 00,Dry-Chemical Fire- Extinguishing Systems,Specifications,,11
+21,30 00,Fire Pumps,Specifications,,11
+21,31 00,Centrifugal Fire Pumps,Specifications,,11
+21,32 00,Vertical-Turbine Fire Pumps,Specifications,,11
+21,33 00,Positive-Displacement Fire Pumps,Specifications,,11
+21,34 00,Fire Pump Accessories,Specifications,,11
+21,40 00,Fire-Suppression Water Storage,Specifications,,11
+21,41 00,Storage Tanks for Fire- Suppression Water,Specifications,,11
+22,01 00,Operation and Maintenance of Plumbing,Specifications,,11
+22,05 00,Common Work Results for Plumbing,Specifications,,11
+22,06 00,Schedules for Plumbing,Specifications,,11
+22,07 00,Plumbing Insulation,Specifications,,11
+22,08 00,Commissioning of Plumbing,Specifications,,11
+22,09 00,Instrumentation and Control for Plumbing,Specifications,,11
+22,10 00,Plumbing Piping,Specifications,,11
+22,11 00,Facility Water Distribution,Specifications,,11
+22,12 00,Facility Potable-Water Storage Tanks,Specifications,,11
+22,13 00,Facility Sanitary Sewerage,Specifications,,11
+22,14 00,Facility Storm Drainage,Specifications,,11
+22,15 00,General Service Compressed- Air Systems,Specifications,,11
+22,30 00,Plumbing Equipment,Specifications,,11
+22,31 00,Domestic Water Softeners,Specifications,,11
+22,32 00,Domestic Water Filtration Equipment,Specifications,,11
+22,33 00,Electric Domestic Water Heaters,Specifications,,11
+22,34 00,Fuel-Fired Domestic Water Heaters,Specifications,,11
+22,35 00,Domestic Water Heat Exchangers,Specifications,,11
+22,36 00,Domestic Water Preheaters,Specifications,,11
+22,40 00,Plumbing Fixtures,Specifications,,11
+22,41 00,Residential Plumbing Fixtures,Specifications,,11
+22,42 00,Commercial Plumbing Fixtures,Specifications,,11
+22,43 00,Healthcare Plumbing Fixtures,Specifications,,11
+22,45 00,Emergency Plumbing Fixtures,Specifications,,11
+22,46 00,Security Plumbing Fixtures,Specifications,,11
+22,47 00,Drinking Fountains and Water Coolers,Specifications,,11
+22,50 00,Pool and Fountain Plumbing Systems,Specifications,,11
+22,51 00,Swimming Pool Plumbing Systems,Specifications,,11
+22,52 00,Fountain Plumbing Systems,Specifications,,11
+22,60 00,Gas and Vacuum Systems for Laboratory and Healthcare Facilities,Specifications,,11
+22,61 00,Compressed-Air Systems for Laboratory and Healthcare Facilities,Specifications,,11
+22,62 00,Vacuum Systems for Laboratory and Healthcare Facilities,Specifications,,11
+22,63 00,Gas Systems for Laboratory and Healthcare Facilities,Specifications,,11
+22,66 00,Chemical-Waste Systems for Laboratory and Healthcare Facilities,Specifications,,11
+22,67 00,Processed Water Systems for Laboratory and Healthcare Facilities to use MasterFormat 2020 Edition.,Specifications,,11
+23,01 00,Operation and Maintenance of 23 70 HVAC Systems 23 71,Specifications,,12
+23,05 00,Common Work Results for 23 72 HVAC,Specifications,,12
+23,06 00,Schedules for HVAC 23 73,Specifications,,12
+23,07 00,HVAC Insulation,Specifications,,12
+23,08 00,Commissioning of HVAC 23 74,Specifications,,12
+23,09 00,Instrumentation and Control for HVAC 23 75,Specifications,,12
+23,10 00,Facility Fuel Systems,Specifications,,12
+23,11 00,Facility Fuel Piping 23 76,Specifications,,12
+23,12 00,Facility Fuel Pumps,Specifications,,12
+23,13 00,Facility Fuel-Storage Tanks 23 80,Specifications,,12
+23,20 00,HVAC Piping and Pumps,Specifications,,12
+23,21 00,Hydronic Piping and Pumps 23 81,Specifications,,12
+23,22 00,Steam and Condensate Piping and Pumps 23 82,Specifications,,12
+23,23 00,Refrigerant Piping,Specifications,,12
+23,24 00,Internal-Combustion Engine 23 83 Piping,Specifications,,12
+23,25 00,HVAC Water Treatment 23 84,Specifications,,12
+23,30 00,HVAC Air Distribution,Specifications,,12
+23,31 00,HVAC Ducts and Casings Automation,Specifications,,12
+23,32 00,Air Plenums and Chases,Specifications,,12
+23,33 00,Air Duct Accessories 25 01,Specifications,,12
+23,34 00,HVAC Fans 25 05,Specifications,,12
+23,35 00,Special Exhaust Systems,Specifications,,12
+23,36 00,Air Terminal Units 25 06,Specifications,,12
+23,37 00,Air Outlets and Inlets,Specifications,,12
+23,38 00,Ventilation Hoods 25 08,Specifications,,12
+23,40 00,HVAC Air Cleaning Devices,Specifications,,12
+23,41 00,Particulate Air Filtration 25 10,Specifications,,12
+23,42 00,Gas-Phase Air Filtration,Specifications,,12
+23,43 00,Electronic Air Cleaners 25 11,Specifications,,12
+23,50 00,Central Heating Equipment,Specifications,,12
+23,51 00,"Breechings, Chimneys, and 25 12 Stacks",Specifications,,12
+23,52 00,Heating Boilers 25 13,Specifications,,12
+23,53 00,Heating Boiler Feedwater Equipment 25 14,Specifications,,12
+23,54 00,Furnaces,Specifications,,12
+23,55 00,Fuel-Fired Heaters 25 15,Specifications,,12
+23,56 00,Solar Energy Heating Equipment 25 30,Specifications,,12
+23,57 00,Heat Exchangers for HVAC,Specifications,,12
+23,60 00,Central Cooling Equipment,Specifications,,12
+23,61 00,Refrigerant Compressors 25 31,Specifications,,12
+23,62 00,Packaged Compressor and Condenser Units,Specifications,,12
+25,32 00,Integrated Automation Instrumentation and Terminal Devices for Conveying Equipment,Specifications,,13
+25,33 00,Integrated Automation Instrumentation and Terminal Devices for Fire-Suppression Systems,Specifications,,13
+25,34 00,Integrated Automation Instrumentation and Terminal Devices for Plumbing,Specifications,,13
+25,35 00,Integrated Automation Instrumentation and Terminal Devices for HVAC,Specifications,,13
+25,36 00,Integrated Automation Instrumentation and Terminal Devices for Electrical Systems,Specifications,,13
+25,37 00,Integrated Automation Instrumentation and Terminal Devices for Communications Systems,Specifications,,13
+25,38 00,Integrated Automation Instrumentation and Terminal Devices for Electronic Safety and Security Systems,Specifications,,13
+25,50 00,Integrated Automation Facility Controls,Specifications,,13
+25,51 00,Integrated Automation Control of Facility Equipment,Specifications,,13
+25,52 00,Integrated Automation Control of Conveying Equipment,Specifications,,13
+25,53 00,Integrated Automation Control of Fire-Suppression Systems,Specifications,,13
+25,54 00,Integrated Automation Control of Plumbing,Specifications,,13
+25,55 00,Integrated Automation Control of HVAC,Specifications,,13
+25,56 00,Integrated Automation Control of Electrical Systems,Specifications,,13
+25,57 00,Integrated Automation Control of Communications Systems,Specifications,,13
+25,58 00,Integrated Automation Control of Electronic Safety and Security Systems,Specifications,,13
+25,90 00,Integrated Automation Control Sequences,Specifications,,13
+25,91 00,Integrated Automation Control Sequences for Facility Equipment,Specifications,,13
+25,92 00,Integrated Automation Control Sequences for Conveying Equipment,Specifications,,13
+25,93 00,Integrated Automation Control Sequences for Fire-Suppression Systems,Specifications,,13
+25,94 00,Integrated Automation Control Sequences for Plumbing,Specifications,,13
+25,95 00,Integrated Automation Control Sequences for HVAC,Specifications,,13
+25,96 00,Integrated Automation Control Sequences for Electrical Systems,Specifications,,13
+25,97 00,Integrated Automation Control Sequences for Communications Systems,Specifications,,13
+25,98 00,Integrated Automation Control Sequences for Electronic Safety and Security Systems,Specifications,,13
+26,01 00,Operation and Maintenance of Electrical Systems,Specifications,,13
+26,05 00,Common Work Results for Electrical,Specifications,,13
+26,06 00,Schedules for Electrical,Specifications,,13
+26,08 00,Commissioning of Electrical Systems,Specifications,,13
+26,09 00,Instrumentation and Control for Electrical Systems,Specifications,,13
+26,10 00,Medium-Voltage Electrical Distribution,Specifications,,13
+26,11 00,Substations,Specifications,,13
+26,12 00,Medium-Voltage Transformers,Specifications,,13
+26,13 00,Medium-Voltage Switchgear,Specifications,,13
+26,15 00,Medium-Voltage Enclosed Bus Assemblies,Specifications,,13
+26,16 00,Medium-Voltage Metering,Specifications,,13
+26,18 00,Medium-Voltage Circuit Protection Devices,Specifications,,13
+26,20 00,Low-Voltage Electrical Distribution,Specifications,,13
+26,21 00,Low-Voltage Electrical Service Entrance,Specifications,,13
+26,22 00,Low-Voltage Transformers,Specifications,,13
+26,23 00,Low-Voltage Switchgear,Specifications,,13
+26,24 00,Switchboards and Panelboards,Specifications,,13
+26,25 00,Low-Voltage Enclosed Bus Assemblies,Specifications,,13
+26,27 00,Low-Voltage Distribution Equipment,Specifications,,13
+26,28 00,Low-Voltage Circuit Protective Devices,Specifications,,13
+26,29 00,Low-Voltage Controllers,Specifications,,13
+26,30 00,Facility Electrical Power Generating and Storing Equipment,Specifications,,13
+26,31 00,Photovoltaic Collectors to use MasterFormat 2020 Edition.,Specifications,,13
+26,32 00,Packaged Generator 27 40 Assemblies 27 41,Specifications,,14
+26,33 00,Battery Equipment 27 42,Specifications,,14
+26,35 00,Power Filters and Conditioners 27 50,Specifications,,14
+26,36 00,Transfer Switches,Specifications,,14
+26,40 00,Electrical Protection 27 51,Specifications,,14
+26,43 00,Surge Protective Devices 27 52,Specifications,,14
+26,50 00,Lighting,Specifications,,14
+26,51 00,Interior Lighting 27 53,Specifications,,14
+26,52 00,Safety Lighting,Specifications,,14
+26,54 00,Classified Location Lighting,Specifications,,14
+26,55 00,Special Purpose Lighting Security,Specifications,,14
+26,56 00,Exterior Lighting 28 01 28 05,Specifications,,14
+27,01 00,Operation and Maintenance of Communications Systems 28 06,Specifications,,14
+27,05 00,Common Work Results for Communications 28 08,Specifications,,14
+27,06 00,Schedules for Communications,Specifications,,14
+27,08 00,Commissioning of 28 10 Communications 28 11,Specifications,,14
+27,10 00,Structured Cabling,Specifications,,14
+27,11 00,Communications Equipment 28 12 Room Fittings,Specifications,,14
+27,13 00,Communications Backbone 28 13 Cabling,Specifications,,14
+27,15 00,Communications Horizontal 28 14 Cabling,Specifications,,14
+27,16 00,"Communications Connecting 28 15 Cords, Devices, and Adapters",Specifications,,14
+27,20 00,Data Communications 28 16,Specifications,,14
+27,21 00,Data Communications Network 28 17 Equipment,Specifications,,14
+27,22 00,Data Communications 28 18 Hardware,Specifications,,14
+27,24 00,Data Communications 28 19 Peripheral Data Equipment,Specifications,,14
+27,25 00,Data Communications 28 20 Software 28 21,Specifications,,14
+27,26 00,Data Communications 28 23 Programming and Integration 28 25 Services,Specifications,,14
+27,30 00,Voice Communications 28 30,Specifications,,14
+27,31 00,Voice Communications Switching and Routing 28 31 Equipment 28 33,Specifications,,14
+27,32 00,Voice Communications Terminal Equipment 28 35,Specifications,,14
+27,33 00,Voice Communications Messaging 28 37,Specifications,,14
+27,34 00,Call Accounting 28 40,Specifications,,14
+27,35 00,Call Management 28 41,Specifications,,14
+28,42 00,Gas Detection and Alarm,Specifications,,15
+28,43 00,Fuel Oil Detection and Alarm,Specifications,,15
+28,44 00,Refrigerant Detection and Alarm,Specifications,,15
+28,45 00,Water Detection and Alarm,Specifications,,15
+28,46 00,Fire Detection and Alarm,Specifications,,15
+28,47 00,Mass Notification,Specifications,,15
+28,48 00,Emergency Response Systems,Specifications,,15
+28,49 00,Electronic Personal Protection Systems,Specifications,,15
+28,50 00,Specialized Systems,Specifications,,15
+28,51 00,Information Management and Presentation,Specifications,,15
+28,52 00,Detention Security Systems,Specifications,,15
+31,01 00,Maintenance of Earthwork,Specifications,,15
+31,05 00,Common Work Results for Earthwork,Specifications,,15
+31,06 00,Schedules for Earthwork,Specifications,,15
+31,08 00,Commissioning of Earthwork,Specifications,,15
+31,09 00,Geotechnical Instrumentation and Monitoring of Earthwork,Specifications,,15
+31,10 00,Site Clearing,Specifications,,15
+31,11 00,Clearing and Grubbing,Specifications,,15
+31,12 00,Selective Clearing,Specifications,,15
+31,13 00,Selective Tree and Shrub Removal and Trimming,Specifications,,15
+31,14 00,Earth Stripping and Stockpiling,Specifications,,15
+31,20 00,Earth Moving,Specifications,,15
+31,21 00,Off-Gassing Mitigation,Specifications,,15
+31,22 00,Grading,Specifications,,15
+31,23 00,Excavation and Fill,Specifications,,15
+31,24 00,Embankments,Specifications,,15
+31,25 00,Erosion and Sedimentation Controls,Specifications,,15
+31,30 00,Earthwork Methods,Specifications,,15
+31,31 00,Soil Treatment,Specifications,,15
+31,32 00,Soil Stabilization,Specifications,,15
+31,33 00,Rock Stabilization,Specifications,,15
+31,34 00,Soil Reinforcement,Specifications,,15
+31,35 00,Slope Protection,Specifications,,15
+31,36 00,Gabions,Specifications,,15
+31,37 00,Riprap,Specifications,,15
+31,40 00,Shoring and Underpinning,Specifications,,15
+31,41 00,Shoring,Specifications,,15
+31,43 00,Concrete Raising,Specifications,,15
+31,45 00,Vibroflotation and Densification,Specifications,,15
+31,46 00,Needle Beams,Specifications,,15
+31,48 00,Underpinning,Specifications,,15
+31,50 00,Excavation Support and Protection,Specifications,,15
+31,51 00,Anchor Tiebacks,Specifications,,15
+31,52 00,Cofferdams,Specifications,,15
+31,53 00,Cribbing and Walers,Specifications,,15
+31,54 00,Ground Freezing,Specifications,,15
+31,56 00,Slurry Walls,Specifications,,15
+31,60 00,Special Foundations and Load-Bearing Elements,Specifications,,15
+31,62 00,Driven Piles,Specifications,,15
+31,63 00,Bored Piles,Specifications,,15
+31,64 00,Caissons,Specifications,,15
+31,66 00,Special Foundations,Specifications,,15
+31,68 00,Foundation Anchors,Specifications,,15
+31,70 00,Tunneling and Mining,Specifications,,15
+31,71 00,Tunnel Excavation,Specifications,,15
+31,72 00,Tunnel Support Systems,Specifications,,15
+31,73 00,Tunnel Grouting,Specifications,,15
+31,74 00,Tunnel Construction,Specifications,,15
+31,75 00,Shaft Construction,Specifications,,15
+31,77 00,Submersible Tube Tunnels Improvements,Specifications,,15
+32,01 00,Operation and Maintenance of Exterior Improvements,Specifications,,15
+32,05 00,Common Work Results for Exterior Improvements,Specifications,,15
+32,06 00,Schedules for Exterior Improvements,Specifications,,15
+32,08 00,Commissioning of Exterior Improvements,Specifications,,15
+32,10 00,"Bases, Ballasts, and Paving",Specifications,,15
+32,11 00,Base Courses,Specifications,,15
+32,12 00,Flexible Paving,Specifications,,15
+32,13 00,Rigid Paving,Specifications,,15
+32,14 00,Unit Paving,Specifications,,15
+32,15 00,Aggregate Surfacing,Specifications,,15
+32,16 00,"Curbs, Gutters, Sidewalks, and Driveways",Specifications,,15
+32,17 00,Paving Specialties,Specifications,,15
+32,18 00,Athletic and Recreational Surfacing,Specifications,,15
+32,30 00,Site Improvements,Specifications,,15
+32,31 00,Fences and Gates,Specifications,,15
+32,32 00,Retaining Walls,Specifications,,15
+32,33 00,Site Furnishings,Specifications,,15
+32,34 00,Fabricated Bridges,Specifications,,15
+32,35 00,Screening Devices,Specifications,,15
+32,39 00,Manufactured Site Specialties,Specifications,,15
+32,70 00,Wetlands,Specifications,,15
+32,71 00,Constructed Wetlands to use MasterFormat 2020 Edition.,Specifications,,15
+32,72 00,Wetlands Restoration 33 56 33 57,Specifications,,16
+32,80 00,Irrigation,Specifications,,16
+32,81 00,Irrigation Components 33 59,Specifications,,16
+32,82 00,Irrigation Pumps 33 60,Specifications,,16
+32,84 00,Planting Irrigation,Specifications,,16
+32,86 00,Agricultural Irrigation 33 61,Specifications,,16
+32,90 00,Planting 33 63,Specifications,,16
+32,91 00,Planting Preparation 33 70,Specifications,,16
+32,92 00,Turf and Grasses 33 71,Specifications,,16
+32,93 00,Plants,Specifications,,16
+32,94 00,Planting Accessories 33 72,Specifications,,16
+32,95 00,Exterior Planting Support 33 73 Structures 33 74,Specifications,,16
+32,96 00,Transplanting 33 75,Specifications,,16
+33,01 00,Operation and Maintenance of Utilities 33 77,Specifications,,16
+33,05 00,Common Work Results for Utilities,Specifications,,16
+33,06 00,Schedules for Utilities 33 78,Specifications,,16
+33,08 00,Commissioning of Utilities 33 79,Specifications,,16
+33,09 00,Instrumentation and Control 33 80 for Utilities 33 81,Specifications,,16
+33,10 00,Water Utilities 33 82,Specifications,,16
+33,11 00,Groundwater Sources,Specifications,,16
+33,12 00,Surface Water Sources 33 83,Specifications,,16
+33,14 00,Water Utility Transmission and Distribution,Specifications,,16
+33,16 00,Water Utility Storage Tanks,Specifications,,16
+33,19 00,Water Utility Metering 34 01 Equipment,Specifications,,16
+33,30 00,Sanitary Sewerage 34 05,Specifications,,16
+33,31 00,Sanitary Sewerage Piping,Specifications,,16
+33,32 00,Sanitary Sewerage Equipment 34 06,Specifications,,16
+33,34 00,Onsite Wastewater Disposal 34 08,Specifications,,16
+33,36 00,Wastewater Utility Storage Tanks 34 10,Specifications,,16
+33,37 00,Overflow Control 34 11,Specifications,,16
+33,40 00,Stormwater Utilities 34 12,Specifications,,16
+33,41 00,Subdrainage 34 13,Specifications,,16
+33,42 00,Stormwater Conveyance 34 14,Specifications,,16
+33,44 00,Stormwater Utility Equipment 34 20,Specifications,,16
+33,46 00,Stormwater Management 34 21,Specifications,,16
+33,50 00,Hydrocarbon Utilities 34 23,Specifications,,16
+33,51 00,Hydrocarbon Sources 34 24,Specifications,,16
+33,52 00,Hydrocarbon Transmission and 34 40 Distribution,Specifications,,16
+33,53 00,Hydrocarbon Utility Pressure 34 41 Regulation,Specifications,,16
+33,54 00,Hydrocarbon Utility Safety Equipment,Specifications,,16
+34,42 00,Railway Signaling and Control Equipment,Specifications,,17
+34,43 00,Airfield Signaling and Control Equipment,Specifications,,17
+34,48 00,Bridge Signaling and Control Equipment,Specifications,,17
+34,50 00,Transportation Fare Collection Equipment,Specifications,,17
+34,52 00,Vehicle Fare Collection,Specifications,,17
+34,54 00,Passenger Fare Collection,Specifications,,17
+34,70 00,Transportation Construction and Equipment,Specifications,,17
+34,71 00,Roadway Construction,Specifications,,17
+34,72 00,Railway Construction,Specifications,,17
+34,73 00,Airfield Construction,Specifications,,17
+34,75 00,Roadway Equipment,Specifications,,17
+34,76 00,Railway Equipment,Specifications,,17
+34,77 00,Transportation Equipment,Specifications,,17
+34,78 00,Weighing Equipment,Specifications,,17
+34,80 00,Bridges,Specifications,,17
+34,81 00,Bridge Machinery,Specifications,,17
+34,82 00,Bridge Specialties Marine Construction,Specifications,,17
+35,01 00,Operation and Maintenance of Waterway and Marine Construction,Specifications,,17
+35,05 00,Common Work Results for Waterway and Marine Construction,Specifications,,17
+35,06 00,Schedules for Waterway and Marine Construction,Specifications,,17
+35,08 00,Commissioning of Waterway and Marine Construction,Specifications,,17
+35,10 00,Waterway and Marine Signaling and Control Equipment,Specifications,,17
+35,11 00,Signaling and Control Equipment for Waterways,Specifications,,17
+35,12 00,Marine Signaling and Control Equipment,Specifications,,17
+35,13 00,Signaling and Control Equipment for Dams,Specifications,,17
+35,20 00,Waterway and Marine Construction and Equipment,Specifications,,17
+35,21 00,General Fabrications for Waterways,Specifications,,17
+35,22 00,Hydraulic Gates,Specifications,,17
+35,24 00,Dredging,Specifications,,17
+35,30 00,Coastal Construction,Specifications,,17
+35,31 00,Shoreline Protection,Specifications,,17
+35,32 00,Artificial Reefs,Specifications,,17
+35,40 00,Waterway Construction and Equipment,Specifications,,17
+35,41 00,Levees,Specifications,,17
+35,42 00,Waterway Bank Protection,Specifications,,17
+35,43 00,Waterway Scour Protection,Specifications,,17
+35,49 00,Waterway Structures,Specifications,,17
+35,50 00,Marine Construction and Equipment,Specifications,,17
+35,51 00,Floating Construction,Specifications,,17
+35,52 00,Offshore Platform Construction,Specifications,,17
+35,53 00,Underwater Construction,Specifications,,17
+35,59 00,Marine Specialties,Specifications,,17
+35,70 00,Dam Construction and Equipment,Specifications,,17
+35,71 00,Gravity Dams,Specifications,,17
+35,72 00,Arch Dams,Specifications,,17
+35,73 00,Embankment Dams,Specifications,,17
+35,74 00,Buttress Dams,Specifications,,17
+35,79 00,Auxiliary Dam Structures Interconnections,Specifications,,17
+40,01 00,Operation and Maintenance of Process Interconnections,Specifications,,17
+40,05 00,Common Work Results for Process Interconnections,Specifications,,17
+40,06 00,Schedules for Process Interconnections,Specifications,,17
+40,10 00,Gas and Vapor Process Piping and Ductwork,Specifications,,17
+40,11 00,Steam Process Piping,Specifications,,17
+40,12 00,Compressed Air Process Piping,Specifications,,17
+40,13 00,Process Ductwork,Specifications,,17
+40,15 00,Combustion System Gas Piping,Specifications,,17
+40,16 00,Specialty and High-Purity Gases Piping,Specifications,,17
+40,17 00,Welding and Cutting Gases Piping,Specifications,,17
+40,18 00,Vacuum Systems Process Piping,Specifications,,17
+40,20 00,Liquids Process Piping,Specifications,,17
+40,21 00,Liquid Fuel Process Piping,Specifications,,17
+40,22 00,Petroleum Products Piping,Specifications,,17
+40,23 00,Water and Wastewater Process Piping,Specifications,,17
+40,24 00,Specialty Liquid Chemicals Piping,Specifications,,17
+40,25 00,Liquid Acids and Bases Piping,Specifications,,17
+40,26 00,Liquid Polymer Piping to use MasterFormat 2020 Edition.,Specifications,,17
+40,30 00,Solid and Mixed Materials 40 94 Piping and Chutes,Specifications,,18
+40,32 00,Bulk Materials Piping and 40 95 Chutes 40 96,Specifications,,18
+40,33 00,Bulk Materials Valves 40 97,Specifications,,18
+40,34 00,Pneumatic Conveying Lines,Specifications,,18
+40,40 00,Process Piping and and Equipment Protection,Specifications,,18
+40,41 00,Process Piping and Equipment 41 01 Heat Tracing,Specifications,,18
+40,42 00,Process Piping and Equipment Insulation 41 05,Specifications,,18
+40,46 00,Process Corrosion Protection,Specifications,,18
+40,47 00,Refractories 41 06,Specifications,,18
+40,60 00,Process Control and Enterprise Management Systems 41 08,Specifications,,18
+40,61 00,Process Control and Enterprise Management Systems General Provisions 41 10,Specifications,,18
+40,62 00,Computer System Hardware and Ancillaries 41 11,Specifications,,18
+40,63 00,Control System Equipment 41 12,Specifications,,18
+40,66 00,Network and Communication Equipment 41 13,Specifications,,18
+40,67 00,Control System Equipment Panels and Racks 41 14,Specifications,,18
+40,68 00,Process Control Software 41 20,Specifications,,18
+40,69 00,Packaged Control Systems 41 21,Specifications,,18
+40,70 00,Instrumentation for Process Systems 41 22,Specifications,,18
+40,71 00,Flow Measurement 41 23,Specifications,,18
+40,72 00,Level Measurement 41 24,Specifications,,18
+40,73 00,"Pressure, Strain, and Force Measurement 41 30",Specifications,,18
+40,74 00,Temperature Measurement 41 31,Specifications,,18
+40,75 00,Process Liquid Analytical Measurement 41 32,Specifications,,18
+40,76 00,Process Gas Analytical 41 33 Measurement 41 34,Specifications,,18
+40,77 00,Position and Motion 41 35 Measurement 41 36,Specifications,,18
+40,78 00,Panel Mounted Instruments,Specifications,,18
+40,79 00,"Miscellaneous Instruments, 41 40 Calibration Equipment, Instrument Valves, and Fittings 41 41",Specifications,,18
+40,80 00,Commissioning of Process 41 42 Systems 41 43,Specifications,,18
+40,90 00,Primary Control Devices 41 50,Specifications,,18
+40,91 00,Primary Control Valves 41 51,Specifications,,18
+40,92 00,Self-Contained Flow Controllers 41 52,Specifications,,18
+40,93 00,Linear Actuators and Positioners,Specifications,,18
+41,53 00,Storage Equipment and Systems,Specifications,,19
+41,60 00,Mobile Plant Equipment,Specifications,,19
+41,61 00,Mobile Earth Moving Equipment,Specifications,,19
+41,62 00,Trucks,Specifications,,19
+41,63 00,General Vehicles,Specifications,,19
+41,64 00,Rail Vehicles,Specifications,,19
+41,65 00,Mobile Support Equipment,Specifications,,19
+41,66 00,Miscellaneous Mobile Equipment,Specifications,,19
+41,67 00,"Plant Maintenance Equipment Cooling, and Drying Equipment",Specifications,,19
+42,01 00,"Operation and Maintenance of Process Heating, Cooling, and Drying Equipment",Specifications,,19
+42,05 00,"Common Work Results for Process Heating, Cooling, and Drying Equipment",Specifications,,19
+42,06 00,"Schedules for Process Heating, Cooling, and Drying Equipment",Specifications,,19
+42,08 00,"Commissioning of Process Heating, Cooling, and Drying Equipment",Specifications,,19
+42,10 00,Process Heating Equipment,Specifications,,19
+42,11 00,Process Boilers,Specifications,,19
+42,12 00,Process Heaters,Specifications,,19
+42,13 00,Industrial Heat Exchangers and Recuperators,Specifications,,19
+42,14 00,Industrial Furnaces,Specifications,,19
+42,15 00,Industrial Ovens,Specifications,,19
+42,20 00,Process Cooling Equipment,Specifications,,19
+42,21 00,Process Cooling Towers,Specifications,,19
+42,22 00,Process Chillers and Coolers,Specifications,,19
+42,23 00,Process Condensers and Evaporators,Specifications,,19
+42,30 00,Process Drying Equipment,Specifications,,19
+42,31 00,Gas Dryers and Dehumidifiers,Specifications,,19
+42,32 00,"Material Dryers Liquid Handling, Purification, and Storage Equipment",Specifications,,19
+43,01 00,"Operation and Maintenance of Process Gas and Liquid Handling, Purification, and Storage Equipment",Specifications,,19
+43,05 00,"Common Work Results for Process Gas and Liquid Handling, Purification, and Storage Equipment",Specifications,,19
+43,06 00,"Schedules for Process Gas and Liquid Handling, Purification, and Storage Equipment",Specifications,,19
+43,08 00,"Commissioning of Process Gas and Liquid Handling, Purification, and Storage Equipment",Specifications,,19
+43,10 00,Gas Handling Equipment,Specifications,,19
+43,11 00,"Gas Fans, Blowers, Pumps and Boosters",Specifications,,19
+43,12 00,Gas Compressors,Specifications,,19
+43,13 00,Gas Process Equipment,Specifications,,19
+43,15 00,Process Air and Gas Filters,Specifications,,19
+43,20 00,Liquid Handling Equipment,Specifications,,19
+43,22 00,Liquid Process Equipment,Specifications,,19
+43,23 00,Dry Location Liquid Pumps,Specifications,,19
+43,24 00,Suspended Liquid Pumps,Specifications,,19
+43,25 00,Submersible/Immersible Liquid Pumps,Specifications,,19
+43,26 00,Specialized Liquid Pumps,Specifications,,19
+43,27 00,Process Liquid Filters,Specifications,,19
+43,30 00,Gas and Liquid Purification Equipment,Specifications,,19
+43,31 00,Gas and Liquid Purification Filtration Equipment,Specifications,,19
+43,32 00,Gas and Liquid Purification Process Equipment,Specifications,,19
+43,40 00,Gas and Liquid Storage,Specifications,,19
+43,41 00,Non-pressurized Tanks and Vessels,Specifications,,19
+43,42 00,Pressurized Tanks and Vessels Control Equipment,Specifications,,19
+44,01 00,Operation and Maintenance of Pollution and Waste Control Equipment,Specifications,,19
+44,05 00,Common Work Results for Pollution and Waste Control Equipment,Specifications,,19
+44,06 00,Schedules for Pollution and Waste Control Equipment,Specifications,,19
+44,08 00,Commissioning of Pollution and Waste Control Equipment,Specifications,,19
+44,10 00,Air Pollution Control,Specifications,,19
+44,11 00,Particulate Control Equipment,Specifications,,19
+44,13 00,Gaseous Air Pollution Control Equipment to use MasterFormat 2020 Edition.,Specifications,,19
+44,20 00,Noise Pollution Control 45 16,Specifications,,20
+44,21 00,Noise Pollution Control Equipment 45 17,Specifications,,20
+44,30 00,Odor Control 45 18,Specifications,,20
+44,31 00,Odor Treatment Equipment,Specifications,,20
+44,32 00,Odor Dispersing and Masking/ Counteracting Equipment 45 19,Specifications,,20
+44,40 00,Water Pollution Control Equipment 45 20,Specifications,,20
+44,41 00,Water Pollution Containment and Cleanup Equipment,Specifications,,20
+44,50 00,Solid Waste Control and 45 21 Reuse,Specifications,,20
+44,51 00,"Solid Waste Collection, 45 22 Transfer, and Hauling Equipment",Specifications,,20
+44,53 00,Solid Waste Processing 45 23 Equipment,Specifications,,20
+44,55 00,Composting Equipment 45 24,Specifications,,20
+44,60 00,Waste Thermal Processing Equipment 45 25,Specifications,,20
+44,61 00,Waste-to-Energy Plants,Specifications,,20
+44,62 00,Fluidized Bed Combustion 45 26 Equipment,Specifications,,20
+44,63 00,Rotary Kiln Incinerators 45 27,Specifications,,20
+44,64 00,Gasification Equipment,Specifications,,20
+44,65 00,Pyrolysis Equipment 45 28,Specifications,,20
+44,66 00,Hazardous Waste and Medical Waste Incinerators,Specifications,,20
+44,67 00,Heat Recovery Equipment for 45 29 Waste Thermal Processing,Specifications,,20
+44,68 00,Synthesis Gas Cleanup and 45 30 Handling Equipment 45 31 Manufacturing Equipment 45 32,Specifications,,20
+45,05 00,Common Work Results for Industry-Specific Manufacturing Equipment 45 33,Specifications,,20
+45,08 00,Commissioning of Industry- Specific Manufacturing 45 34 Equipment,Specifications,,20
+45,11 00,Oil and Gas Extraction Equipment 45 35,Specifications,,20
+45,12 00,User-Defined Oil and Gas Extraction Equipment 45 36,Specifications,,20
+45,13 00,Mining Machinery and Equipment 45 37,Specifications,,20
+45,14 00,User-Defined Mining Machinery and Equipment 45 38,Specifications,,20
+45,15 00,Food Manufacturing Equipment,Specifications,,20
+45,39 00,Fabricated Metal Product Manufacturing Equipment,Specifications,,21
+45,40 00,User-Defined Fabricated Metal Product Manufacturing Equipment,Specifications,,21
+45,41 00,Machinery Manufacturing Equipment,Specifications,,21
+45,42 00,User-Defined Machinery Manufacturing Equipment,Specifications,,21
+45,43 00,Computer and Electronic Product Manufacturing Equipment,Specifications,,21
+45,44 00,User-Defined Computer and Electronic Product Manufacturing Equipment,Specifications,,21
+45,45 00,"Electrical Equipment, Appliance, and Component Manufacturing Equipment",Specifications,,21
+45,46 00,"User-Defined Electrical Equipment, Appliance, and Component Manufacturing Equipment",Specifications,,21
+45,47 00,Transportation Manufacturing Equipment,Specifications,,21
+45,48 00,User-Defined Transportation Manufacturing Equipment,Specifications,,21
+45,49 00,Furniture and Related Product Manufacturing Equipment,Specifications,,21
+45,50 00,User-Defined Furniture and Related Product Manufacturing Equipment,Specifications,,21
+45,52 00,User-Defined Other Manufacturing Equipment,Specifications,,21
+45,53 00,Biopharmaceutical Manufacturing Equipment Wastewater Equipment,Specifications,,21
+46,01 00,Operation and Maintenance of Water and Wastewater Equipment,Specifications,,21
+46,05 00,Common Work Results for Water and Wastewater Equipment,Specifications,,21
+46,06 00,Schedules for Water and Wastewater Equipment,Specifications,,21
+46,07 00,Packaged Water and Wastewater Treatment Equipment,Specifications,,21
+46,08 00,Commissioning of Water and Wastewater Equipment,Specifications,,21
+46,20 00,Water and Wastewater Preliminary Treatment Equipment,Specifications,,21
+46,21 00,Screening Equipment,Specifications,,21
+46,23 00,Grit Removal and Handling Equipment,Specifications,,21
+46,24 00,Grinding and Shredding Equipment,Specifications,,21
+46,25 00,Oil and Grease Separation and Removal Equipment,Specifications,,21
+46,30 00,Water and Wastewater Chemical Feed Equipment,Specifications,,21
+46,31 00,Gas Chemical Feed Equipment,Specifications,,21
+46,33 00,Liquid Chemical Feed Equipment,Specifications,,21
+46,36 00,Dry Chemical Feed Equipment,Specifications,,21
+46,40 00,Water and Wastewater Clarification and Mixing Equipment,Specifications,,21
+46,41 00,Mixing Equipment,Specifications,,21
+46,43 00,Clarifier Equipment,Specifications,,21
+46,46 00,Sediment Removal Equipment,Specifications,,21
+46,50 00,Water and Wastewater Secondary Treatment Equipment,Specifications,,21
+46,51 00,Air and Gas Diffusion Equipment,Specifications,,21
+46,53 00,Biological Treatment Systems,Specifications,,21
+46,60 00,Water and Wastewater Advanced Treatment Equipment,Specifications,,21
+46,61 00,Filtration Equipment,Specifications,,21
+46,63 00,Demineralization Equipment,Specifications,,21
+46,66 00,Ultraviolet Equipment,Specifications,,21
+46,70 00,Water and Wastewater Residuals Handling and Treatment,Specifications,,21
+46,71 00,Residuals Thickening Equipment,Specifications,,21
+46,73 00,Residuals Stabilization,Specifications,,21
+46,76 00,Residuals Dewatering Equipment,Specifications,,21
+46,78 00,Thermal Treatment of Residuals Generation,Specifications,,21
+48,01 00,Operation and Maintenance for Electrical Power Generation,Specifications,,21
+48,05 00,Common Work Results for Electrical Power Generation,Specifications,,21
+48,06 00,Schedules for Electrical Power Generation to use MasterFormat 2020 Edition.,Specifications,,21
+48,08 00,Commissioning of Electrical Power Generation,Specifications,,22
+48,09 00,Instrumentation and Control for Electrical Power Generation,Specifications,,22
+48,10 00,Electrical Power Generation Equipment,Specifications,,22
+48,11 00,Fossil Fuel Plant Electrical Power Generation Equipment,Specifications,,22
+48,12 00,Nuclear Fuel Plant Electrical Power Generation Equipment,Specifications,,22
+48,13 00,Hydroelectric Plant Electrical Power Generation Equipment,Specifications,,22
+48,14 00,Solar Energy Electrical Power Generation Equipment,Specifications,,22
+48,15 00,Wind Energy Electrical Power Generation Equipment,Specifications,,22
+48,16 00,Geothermal Energy Electrical Power Generation Equipment,Specifications,,22
+48,17 00,Electrochemical Energy Electrical Power Generation Equipment,Specifications,,22
+48,18 00,Fuel Cell Electrical Power Generation Equipment,Specifications,,22
+48,19 00,Electrical Power Control Equipment,Specifications,,22
+48,30 00,Combined Heat and Power Generation,Specifications,,22
+48,31 00,Combustion Combined Heat and Power Generation,Specifications,,22
+48,70 00,Electrical Power Generation Testing,Specifications,,22
+48,71 00,Electrical Power Generation Test Equipment,Specifications,,22
